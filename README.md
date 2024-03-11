@@ -5,7 +5,7 @@ I am a second-year computer science student at J. B. Institute of Engineering an
 
 ## What I'm Up To
 
-- Exploring Deep Learning with PyTorch
+- Exploring Deep Learning with Tensorflow
 - Bulding Web Applications with React
 
 ## Connect with me:
